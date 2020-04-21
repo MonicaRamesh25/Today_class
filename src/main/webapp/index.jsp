@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deploy to Tomcat !</h2>
+<h2>Changing to Pipeline !</h2>
 </body>
 </html>
